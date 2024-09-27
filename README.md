@@ -20,5 +20,5 @@ Aplikasi web ini memiliki dua tab, yaitu:
 
 ## Teknologi
 - **HTML**
-- **CSS (Bootstrap 5)**
+- **CSS (Bootstrap)**
 - **JavaScript (OOP, DOM, Asynchronous)**
